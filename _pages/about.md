@@ -2,33 +2,55 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Researcher in Computer Vision, Medical Image Analysis, and Multimodal Perception
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Xi'an, China</p>
+    <p>Xi'an University of Posts and Telecommunications</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an undergraduate student majoring in Computer Science and Technology
+at Xi'an University of Posts and Telecommunications. I am currently ranked
+1st among 218 students, with an average academic score of 94/100.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include **medical image analysis**, **computer vision**,
+**object detection**, and **multimodal perception**. I have participated in
+interdisciplinary research projects involving clinical X-ray analysis and
+multimodal indoor fire detection.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am particularly interested in developing reliable and reproducible AI
+methods for real-world medical and engineering applications.
+
+## Research Interests
+
+- Medical Image Analysis
+- Computer Vision and Object Detection
+- Multimodal Learning
+- Intelligent Sensing
+- Reliable and Reproducible AI
+
+## Selected Highlights
+
+- Ranked 1st among 218 students in Computer Science and Technology
+- Recipient of the National Scholarship for Undergraduate Students
+- Co-author of a research article published in *Scientific Data*
+- Student lead of a multi-center hip X-ray analysis project
+- Research experience at the State Key Laboratory of Fire Science, USTC
+- Provincial First Prize in the China Robotics and Artificial Intelligence Competition
