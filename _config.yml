@@ -16,12 +16,12 @@ description: >
   include medical image analysis, computer vision, object detection, and
   multimodal perception.
 footer_text: >
-  © 2026 Yetang Chen. Powered by Jekyll and al-folio.
+  Powered by Jekyll and al-folio.
 keywords: medical image analysis, computer vision, multimodal learning, object detection, deep learning, PyTorch, medical AI, Yetang Chen
 lang: en
 icon: 💻
-url: https://yetangchen.github.io
-baseurl: ""
+url: "https://siliconsisyphus.github.io"
+baseurl: "/My-Website"
 last_updated: true
 impressum_path:
 back_to_top: true
